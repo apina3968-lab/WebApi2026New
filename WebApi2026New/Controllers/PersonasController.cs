@@ -1,0 +1,143 @@
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using WebApi2026New.Data;
+using WebApi2026New.DTOs;
+using WebApi2026New.Models;
+
+[Route("api/[controller]")]
+[ApiController]
+public class PersonasController : ControllerBase
+{
+    private readonly AppDBContext _context;
+    public PersonasController(AppDBContext context)
+    {
+        _context = context;
+    }
+
+    // GET: api/Persona
+    [HttpGet]
+    public async Task<ActionResult<IEnumerable<PersonaListaDto>>> GetPersonas()
+    {
+        return await _context.Personas.Select(p => new PersonaListaDto
+        {
+            idPersona = p.idPersona,
+            nombre = p.nombre,
+            apellido = p.apellido,
+            correo = p.correo,
+            edad = p.edad,
+            totalDirecciones = p.Direcciones.Count
+
+        }).ToListAsync();
+    }
+
+    // GET: api/Persona/5
+    [HttpGet("{id}")]
+    public async Task<ActionResult<PersonaDTO>> GetPersona(int id)
+    {
+        var persona = await _context.Personas
+            .Where(p => p.idPersona == id)
+            .Select(p => new PersonaDTO
+            {
+                idPersona = p.idPersona,
+                nombre = p.nombre,
+                apellido = p.apellido,
+                correo = p.correo,
+                direcciones = p.Direcciones.Select(d => new DireccionDTO
+                {
+                    idDireccion = d.idDireccion,
+                    calle = d.calle,
+                    ciudad = d.ciudad,
+                    departamento = d.departamento,
+                    codigoPostal = d.codigoPostal,
+                    pais = d.pais
+                }).ToList()
+            }).FirstOrDefaultAsync();
+
+        if (persona == null)
+        {
+            return NotFound();
+        }
+
+        return persona;
+    }
+
+    // PUT: api/Persona/5
+    // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+    [HttpPut("{id}")]
+    public async Task<IActionResult> PutPersona(int? id, Persona persona)
+    {
+        if (id != persona.idPersona)
+        {
+            return BadRequest();
+        }
+
+        _context.Entry(persona).State = EntityState.Modified;
+
+        try
+        {
+            await _context.SaveChangesAsync();
+        }
+        catch (DbUpdateConcurrencyException)
+        {
+            if (!PersonaExists(id))
+            {
+                return NotFound();
+            }
+            else
+            {
+                throw;
+            }
+        }
+
+        return NoContent();
+    }
+
+    // POST: api/Persona
+    // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+    [HttpPost]
+    public async Task<ActionResult<PersonaReadDTO>> PostPersona(PersonaCreateDTO dto)
+    {
+        var persona = new Persona
+        {
+            nombre = dto.nombre,
+            apellido = dto.apellido,
+            correo = dto.correo,
+            edad = dto.edad,
+            password = dto.password // idealmente guardar un hash, no el texto plano
+        };
+
+        _context.Personas.Add(persona);
+        await _context.SaveChangesAsync();
+
+        var resultado = new PersonaReadDTO
+        {
+            idPersona = persona.idPersona,
+            nombre = persona.nombre,
+            apellido = persona.apellido,
+            correo = persona.correo
+        };
+
+        return CreatedAtAction(nameof(GetPersona), new { id = persona.idPersona }, resultado);
+    }
+
+    // DELETE: api/Persona/5
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> DeletePersona(int? id)
+    {
+        var persona = await _context.Personas.FindAsync(id);
+        if (persona == null)
+        {
+            return NotFound();
+        }
+
+        _context.Personas.Remove(persona);
+        await _context.SaveChangesAsync();
+
+        return NoContent();
+    }
+
+    private bool PersonaExists(int? id)
+    {
+        return _context.Personas.Any(e => e.idPersona == id);
+    }
+}

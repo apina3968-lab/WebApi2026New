@@ -1,0 +1,349 @@
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.csproj.AssemblyReference.cache
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.AssemblyInfoInputs.cache
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.AssemblyInfo.cs
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.csproj.CoreCompileInputs.cache
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\appsettings.json
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\WebApi2026New.staticwebassets.endpoints.json
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\WebApi2026New.exe
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\WebApi2026New.deps.json
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\WebApi2026New.runtimeconfig.json
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\WebApi2026New.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\WebApi2026New.pdb
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Identity.Client.Broker.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\linux-x64\native\libmsalruntime.so
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\osx-x64\native\msalruntime.dylib
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\scopedcss\bundle\WebApi2026New.styles.css
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi20.4DADD136.Up2Date
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\refint\WebApi2026New.dll
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.pdb
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.genruntimeconfig.cache
+C:\Users\Sadainer Hernández\source\repos\WebApi2026New\WebApi2026New\obj\Debug\net10.0\ref\WebApi2026New.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\appsettings.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\WebApi2026New.staticwebassets.runtime.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\WebApi2026New.staticwebassets.endpoints.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\WebApi2026New.exe
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\WebApi2026New.deps.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\WebApi2026New.runtimeconfig.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\WebApi2026New.runtimeconfig.dev.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\WebApi2026New.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\WebApi2026New.pdb
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Humanizer.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Identity.Client.Broker.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\linux-x64\native\libmsalruntime.so
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\osx-x64\native\msalruntime.dylib
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.csproj.AssemblyReference.cache
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.lib.module.js
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.js
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.Config.js
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\dotnet-watch\browser-tools-key.public.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\dotnet-watch\browser-tools-key.private.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.AssemblyInfoInputs.cache
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.AssemblyInfo.cs
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.csproj.CoreCompileInputs.cache
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\jsmodules\jsmodules.build.manifest.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\scopedcss\scopedcss.cache
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\scopedcss\bundle\WebApi2026New.styles.css
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\compressed\c4h2o5jrrs-{0}-s9y91u5nkn-s9y91u5nkn.gz
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\compressed\2c49jh80p8-{0}-a76cg848pn-a76cg848pn.gz
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\compressed\b4o0oiy78s-{0}-lvkpp2i49p-lvkpp2i49p.gz
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\compressed\z937mv3rmf-{0}-scyj3pnqhf-scyj3pnqhf.gz
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi20.4DADD136.Up2Date
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\refint\WebApi2026New.dll
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.pdb
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\WebApi2026New.genruntimeconfig.cache
+C:\Users\apina\Downloads\WebApi2026New\WebApi2026New\WebApi2026New\obj\Debug\net10.0\ref\WebApi2026New.dll
