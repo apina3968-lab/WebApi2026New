@@ -3,9 +3,11 @@ using Microsoft.EntityFrameworkCore;
 using WebApi2026New.Data;
 using WebApi2026New.DTOs;
 using WebApi2026New.Models;
+using Microsoft.AspNetCore.Authorization;
 
 [Route("api/[controller]")]
 [ApiController]
+[Authorize]
 public class DireccionesController : ControllerBase
 {
     private readonly AppDBContext _context;
